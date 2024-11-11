@@ -5,4 +5,3 @@ Introducción a MySQL.
 Instalación y configuración básica.
 Operaciones CRUD (Create, Read, Update, Delete).
 Consultas más avanzadas.
-Buenas prácticas y optimización.
